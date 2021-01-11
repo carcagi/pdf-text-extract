@@ -22,3 +22,9 @@ https://www.fujitsu.com/global/support/products/computing/peripheral/scanners/sc
 
 Just clone this script, have the packages installed and run it passing the pdf file as argument.
 
+Usage with the sample pdf:
+
+```
+python3 pdf-text-extract.py sv600_m_automatic.pdf
+```
+

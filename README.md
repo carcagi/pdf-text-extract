@@ -20,11 +20,13 @@ https://www.fujitsu.com/global/support/products/computing/peripheral/scanners/sc
 
 **Make it Work**
 
-Just clone this script, have the packages installed and run it passing the pdf file as argument.
+Just clone this script, have the packages installed and run it passing the pdf file as argument. I recommend using a virtual environment to prevent lots global installed packages.
 
-Usage with the sample pdf:
+**Usage with the sample pdf:**
 
 ```
 python3 pdf-text-extract.py sv600_m_automatic.pdf
 ```
+
+This script is distributed as it is, use at your own risk.
 

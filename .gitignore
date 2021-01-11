@@ -1,0 +1,7 @@
+*.jpeg
+*.jpg
+*.txt
+bin/
+include/
+lib/
+pyvenv.cfg
